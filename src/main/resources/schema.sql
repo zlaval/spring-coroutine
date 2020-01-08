@@ -1,0 +1,1 @@
+create table product(id varchar(50) not null primary key ,name varchar(255),price INT)
